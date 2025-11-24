@@ -1,2 +1,3 @@
 # Jotatoon.github.io
-Assignment
+joseur@taltech.ee
+
